@@ -1,0 +1,118 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Nov 9, 2015, 3:02:56 AM
+    Author     : HTC
+*/
+
+#maincontent{
+    position:absolute;
+    width:80%;
+    left:18%;
+    right:10%;
+    text-align:left;
+}
+
+#navi{
+    position:fixed;
+    bottom:0px;
+    width:80%;
+    height:50px;
+    margin-bottom: 0px;
+}
+
+#navi ul {
+    height: auto;
+    padding: 8px 0px;
+    margin: 10px;
+}
+
+#navi li { 
+    display: inline; 
+    padding: 20px; 
+}
+#navi a {
+    text-decoration: none;
+    color:#FF3300;
+    padding: 8px 8px 8px 8px;
+}
+
+#banner_img{
+	position:absolute;
+	width:80%;
+	height:300px;
+	text-align:center;
+	padding-top:10px;
+	padding-bottom:0px;
+	margin-top:5px;
+	
+}
+
+#navi a:hover {
+    color: #F90;
+    background-color: #FFF;
+}
+
+#content{ 
+    position:absolute;
+    padding-left:10%;
+    padding-right:10%;
+    padding-top:0px;
+    width:60%;
+    margin-top:30px;
+    top:350px;
+    border-style: solid;
+}
+
+
+#site_name{
+    position:relative;
+    padding-left:auto;
+    margin-top:0px;
+    top:320px;
+    font-size: 24pt;
+}
+
+h3{
+    font-size: 30pt;
+    position:relative;
+    margin-top: 10px;
+}
+
+div{
+    position:relative;
+    margin-top: 0px;
+}
+#ft{
+    position:absolute;
+    bottom :0px;
+    alignment-adjust: central;
+}
+
+#slide_img, #slide_caption, #slideshow_controls {
+    position:relative;
+    left:0px;  
+    width:1000px;
+    padding-left: 20px;
+    padding-right: 20px;  
+}
+
+#slide_img {
+    margin-top: 0px;
+}
+
+#slide_caption {
+    margin-top: 0px;
+    font-size:24pt;
+    text-align:center;
+    background-color:rgb(150,190,250);
+}
+
+#slideshow_controls {
+    margin-top: 0px;
+    text-align:center;
+    background-color:rgb(150,190,250);
+}

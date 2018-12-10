@@ -1,0 +1,32 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Nov 9, 2015, 12:19:54 PM
+    Author     : HTC
+*/
+@import url(https://fonts.googleapis.com/css?family=Julius+Sans+One);
+body{
+    font-family: 'Julius Sans One', sans-serif;
+    color: black;
+    font-weight: lighter;
+    background-color: #00CC7A;
+    font-size: 18pt;
+}
+
+#navi{
+    background-color: #00FF99;
+    
+}
+
+#content{ 
+    background-color: #99FFD6;
+}
+
+a active{
+    background-color: #FFF;
+}
+
+

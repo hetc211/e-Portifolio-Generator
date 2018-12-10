@@ -1,0 +1,99 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Nov 17, 2015, 4:02:09 PM
+    Author     : HTC
+*/
+
+
+.file_control_flowpane{ 
+    -fx-background-radius: 5.0;
+    -fx-hgap: 20px;
+}
+
+.slide_show_edit_vbox {
+    -fx-background-radius: 5.0;
+    -fx-background-color: #00ff99;
+    -fx-border-color: rgb(50, 5, 5);
+    -fx-spacing: 20px;
+}
+
+.slide_show_edit_hbox{
+    -fx-font-size:14pt;
+    -fx-background-radius: 10.0;
+    -fx-background-color: #cce5ff;
+    -fx-spacing: 60px;
+}
+
+.site_control_vbox{
+    -fx-background-radius: 5.0;
+    -fx-background-color: #66ccff;
+    -fx-border-color: rgb(50, 5, 5);
+    -fx-spacing: 20px;
+}
+
+.vertical_toolbar_button {
+    -fx-padding: 10px 10px 10px 10px;
+    -fx-spacing: 50px;
+}
+
+.slide_edit_view {
+    -fx-font-size:14pt;
+    -fx-background-radius: 10.0;
+    -fx-background-color: rgb(120, 240, 50);
+    -fx-border-color: rgb(70, 5, 5);
+    -fx-border-thickness: 10px;
+    -fx-spacing: 60px;
+}
+
+.horizontal_toolbar_button {
+    -fx-padding-left: 10px;
+    -fx-padding-right: 20px;
+    -fx-spacing: 50px;
+}
+
+.tooltip_setting{
+    -fx-font-size:14pt;
+    -fx-font-family:serif;
+}
+
+.button_for_list_site{
+    -fx-padding-left: 10px;
+    -fx-padding-right: 20px;
+    -fx-spacing: 50px;
+    -fx-width: 300px;
+    -fx-height: 30px;
+}
+
+button{
+    font-size:15px;
+    height: 30px;
+    width:  120px;
+    vertical-align: middle; 
+    margin:10px;
+}
+
+.list_site_vbox{
+    -fx-spacing:50px;
+    width: 50px;
+}
+
+.mode_hbox{
+    -fx-alignment: center;
+    -fx-spacing: 50px;
+}
+
+.site_workspace{
+    -fx-border-color: red;
+    -fx-border-radius: 4pt;
+    -fx-background-color: #99ccff;
+}
+.component_control_vbox{
+    -fx-background-radius: 5.0;
+    -fx-background-color: blue;
+    -fx-border-color: rgb(50, 5, 5);
+    -fx-spacing: 20px;
+}

@@ -1,0 +1,211 @@
+{
+    "title":"Tianci He's ePortfolio",
+    "Pages":[
+    {
+            "title":"Home",
+            "banner":{
+                    "imageName":"1.jpg",
+                    "imagePath":"C:\\Users\\hetc2_000\\Documents\\CSE219\\HW\\HW4\\theEPortfolioGenerator\\images\banner"
+
+            },
+            "contents":[
+            {
+                    "id":"p1",
+                    "style":"t_h",
+                    "components":{
+                        "detail":"Welcome to my ePortfolio, Hope you enjoy it!"
+                    }
+            },      
+            {
+                    "id":"welcomeImage",
+                    "style":"image",
+                    "components":{
+                        "imageName":"2.jpg",
+                        "imagePath":"C:\\Users\\hetc2_000\\Documents\\CSE219\\HW\\HW4\\theEPortfolioGenerator\\images"
+                    }
+
+            }],
+            "footer":{
+                "deatil":"This is the end!!!"
+            }
+    },
+    {
+            "title":"Cse219",
+            "banner":{
+
+                    "imageName":"1.jpg",
+                    "imagePath":"C:\\Users\\hetc2_000\\Documents\\CSE219\\HW\\HW4\\theEPortfolioGenerator\\images\banner"
+
+            },
+            "contents":[
+            {
+                    "id":"p1",
+                    "style":"t_p",
+                    "components":{
+                        "deatil":"CSE 219: Computer Science III"
+                    }
+
+            },
+            {
+                    "id":"p2",
+                    "style":"t_p",
+                    "components":{
+                        "deatil":"Development of the basic concepts and techniques learned in CSE 114 Computer Science I and CSE 214 Computer Science II into practical programming skills that include a systematic approach to program design, coding, testing, and debugging. Application of these skills to the construction of robust programs of 1000 to 2000 lines of source code. Use of programming environments and tools to aid in the software development process."					
+                    }
+            },
+            {
+                    "id":"p3",
+                    "style":"t_p",
+                    "components":{
+                        "detail":"Belowe is the hw3 of Fall 2015"
+                    }
+                        
+            },
+
+            {
+                    "id":"ss",
+                    "style":"slideShow",
+                    "components":{
+                        "slides":[
+                        {"image_file_name":"CapeSpearNewfoundland.jpg","image_path":"C:\\Users\\hetc2_000\\Documents\\CSE219\\HW\\HW2\\SlideshowMaker\\images\\slide_show_images\\","image_captions":"12"},
+                        {"image_file_name":"ToadstoolNebraska.jpg","image_path":"C:\\Users\\hetc2_000\\Documents\\CSE219\\HW\\HW2\\SlideshowMaker\\images\\slide_show_images\\","image_captions":"34"}]
+                    }
+            }
+
+            ],
+            "footer":{
+                "deatil":"This is the end!!!"
+            }
+    },
+
+    {
+            "title":"Resume",
+            "banner":{
+                "imageName":"",
+                "imagePath":""
+            },
+            "contents":[
+            {
+                    "id":"r_name",
+                    "style":"t_h",
+                    "components":{
+                        "deatil":"Tianci He"
+                    }
+            },
+            {
+                    "id":"email",
+                    "style":"t_p",
+                    "components":{
+                        "deatil":"hetc211@gmail.com"
+                    }
+            },
+            {
+                    "id":"awards",
+                    "style":"t_l",
+                    "components":[{
+                            "deatil":"nu1"},
+                            {
+                            "detail":"2"}]
+
+            },
+            {
+                "id":"p1",
+                "style":"t_h",
+                "components":{
+                    "detail":"This guy is so lazy, did't add anything!"
+                }
+            }
+            ],
+            "footer":"This is the end!!!"
+    },
+
+    {
+            "title":"WOW",
+            "banner":{
+                "imageName":"",
+                "imagePath":""
+            },
+            "contents":[{
+                "id":"v1",
+                "style":"video",
+                "components":{
+                        "video_name":"3.mp4",
+                        "videoPath":""
+                }
+            },
+            {
+                    "id":"p1",
+                    "style":"t_p",
+                    "components":{
+                        "deatil":"For Azeroth!"
+                    }
+            },
+            {
+                    "id":"im",
+                    "style":"image",
+                    "components":{
+                            "imageName":"3.png",
+                            "imagePath":"C:\\Users\\hetc2_000\\Documents\\CSE219\\HW\\HW4\\theEPortfolioGenerator\\images"
+                    }
+            },	
+            {
+                "id":"p2",
+                "style":"t_p",
+                "components":{
+                    "detail":"I got a set of Warglaive of Azzinoth(Legendary Weapons) in 2 weeks, 3 CD! LOL!"
+                }
+            },
+            {
+                "id":"hl",
+                "style":"t_h",
+                "components":{
+                        "content":"Warglaive of Azzinoth",
+                        "hyperlink":"www.youtube.com"
+                }
+            },
+            {
+                "id":"p3",
+                "style":"t_p",
+                "components":{
+                    "deatil":" (Legendary Weapons) in 2 weeks, 3 CD! LOL!"
+                }
+            }],
+            "footer":{
+                "deatil":"no footer"
+            }
+    },
+
+    {
+        "title":"LOL",
+        "banner":{
+                "imageName":"1.jpg",
+                "imagePath":"C:\\Users\\hetc2_000\\Documents\\CSE219\\HW\\HW4\\theEPortfolioGenerator\\images\banner"
+
+        },
+        "contents":[
+        {
+            "id":"p1",
+            "style":"t_p",
+            "components":"Unfortunately, I just demoted from Gold V to Silver IV! WTF!"
+
+        },
+        {
+            "id":"h1",
+            "style":"t_h",
+            "components":{
+                    "content":"Click",
+                    "hyperlink":"na.op.gg/summoner/matches/userName=stubbornhtc"
+            }
+        },
+        {
+            "id":"p2",
+            "style":"t_p",
+            "components":{
+                "deatil":"me to check!"
+            }
+        }],
+        "footer":{
+            "deatil":"this is end"
+        }
+    }
+]}

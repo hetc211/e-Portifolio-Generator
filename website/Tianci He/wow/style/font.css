@@ -1,0 +1,32 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Nov 9, 2015, 12:19:54 PM
+    Author     : HTC
+*/
+@import url(https://fonts.googleapis.com/css?family=Poiret+One);
+body{
+    font-family: 'Poiret One', cursive;
+    color: #FFFF00;
+    font-weight: bold;
+    background-color: #005500;
+}
+
+#navi{
+    background-color: #006600;
+}
+
+#content{ 
+    background-color: #00BB00;
+    font-size: 18pt;
+    font-weight: bolder;
+}
+
+a active{
+    background-color: #FFF;
+}
+
+

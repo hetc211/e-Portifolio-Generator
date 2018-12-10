@@ -1,0 +1,30 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Nov 9, 2015, 12:19:54 PM
+    Author     : HTC
+*/
+@import url('http://fonts.googleapis.com/css?family=Pacifico');
+body{
+    font-family: Pacifico;
+    color: : black;
+    font-weight: lighter;
+    background-color: #FF471A;
+}
+
+#navi a:hover {
+    background-color: #FFF;
+}
+
+#content{ 
+    background-color: #FF5050;
+}
+
+a active{
+    background-color: #FFF;
+}
+
+

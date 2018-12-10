@@ -1,0 +1,185 @@
+{
+    "Sites_Name":"Tianci He's ePortfolio",
+    "Pages":[
+    {
+            "title":"Home",
+            "banner":{
+                    "imageName":"1.jpg",
+                    "imagePath":"C:\\Users\\hetc2_000\\Documents\\CSE219\\HW\\HW4\\theEPortfolioGenerator\\images\banner"
+
+            },
+            "contents":[
+            {
+                    "id":"p1",
+                    "style":"t_h",
+                    "components":"Welcome to my ePortfolio, Hope you enjoy it!"
+            },      
+            {
+                    "id":"welcomeImage",
+                    "style":"image",
+                    "components":{
+                            "imageName":"2.jpg",
+                            "imagePath":"C:\\Users\\hetc2_000\\Documents\\CSE219\\HW\\HW4\\theEPortfolioGenerator\\images"
+                    }
+
+            }],
+            "footer":"This is the end!!!"
+    },
+    {
+            "title":"Cse219",
+            "banner":{
+
+                    "imageName":"1.jpg",
+                    "imagePath":"C:\\Users\\hetc2_000\\Documents\\CSE219\\HW\\HW4\\theEPortfolioGenerator\\images\banner"
+
+            },
+            "contents":[
+            {
+                    "id":"p1",
+                    "style":"t_p",
+                    "components":"CSE 219: Computer Science III"
+
+            },
+            {
+                    "id":"p2",
+                    "style":"t_p",
+                    "components":"Development of the basic concepts and techniques learned in CSE 114 Computer Science I and CSE 214 Computer Science II into practical programming skills that include a systematic approach to program design, coding, testing, and debugging. Application of these skills to the construction of robust programs of 1000 to 2000 lines of source code. Use of programming environments and tools to aid in the software development process."					
+
+            },
+            {
+                    "id":"p3",
+                    "style":"t_p",
+                    "components":"Belowe is the hw3 of Fall 2015"
+            },
+
+            {
+                    "id":"ss",
+                    "style":"slideShow",
+                    "components":{
+                        "slides":[
+                        {"image_file_name":"CapeSpearNewfoundland.jpg","image_path":"C:\\Users\\hetc2_000\\Documents\\CSE219\\HW\\HW2\\SlideshowMaker\\images\\slide_show_images\\","image_captions":"12"},
+                        {"image_file_name":"ToadstoolNebraska.jpg","image_path":"C:\\Users\\hetc2_000\\Documents\\CSE219\\HW\\HW2\\SlideshowMaker\\images\\slide_show_images\\","image_captions":"34"}]
+                    }
+            }
+
+            ],
+            "footer":"This is the end!!!"
+    },
+
+    {
+            "title":"Resume",
+            "banner":{
+                "imageName":"",
+                "imagePath":""
+            },
+            "contents":[
+            {
+                    "id":"r_name",
+                    "style":"t_h",
+                    "components":"Tianci He"
+            },
+            {
+                    "id":"email",
+                    "style":"t_p",
+                    "components":"hetc211@gmail.com"
+            },
+            {
+                    "id":"awards",
+                    "style":"t_l",
+                    "components":[{
+                            "l1":"nu1"},
+                            {
+                            "l2":"2"}]
+
+            },
+            {
+                    "id":"p1",
+                    "style":"t_h",
+                    "components":"This guy is so lazy, did't add anything!"
+            }
+            ],
+            "footer":"This is the end!!!"
+    },
+
+    {
+            "title":"WOW",
+            "banner":{
+                "imageName":"",
+                "imagePath":""
+            },
+            "contents":[
+            {
+                    "id":"v1",
+                    "style":"video",
+                    "components":{
+                            "video_name":"3.mp4",
+                            "videoPath":""
+                    }
+            },
+            {
+                    "id":"p1",
+                    "style":"t_p",
+                    "components":"For Azeroth!"
+            },
+            {
+                    "id":"im",
+                    "style":"image",
+                    "components":{
+                            "imageName":"3.png",
+                            "imagePath":"C:\\Users\\hetc2_000\\Documents\\CSE219\\HW\\HW4\\theEPortfolioGenerator\\images"
+                    }
+            },	
+            {
+                "id":"p2",
+                "style":"t_p",
+                "components":"I got a set of "
+            },
+            {
+                "id":"hl",
+                "style":"t_link",
+                "components":{
+                        "content":"Warglaive of Azzinoth",
+                        "hyperlink":"www.youtube.com"
+                }
+            },
+            {
+                "id":"p3",
+                "style":"t_p",
+                "components":" (Legendary Weapons) in 2 weeks, 3 CD! LOL!"
+            }],
+            "footer":"no footer"
+    },
+
+    {
+        "title":"LOL",
+        "banner":{
+                "imageName":"1.jpg",
+                "imagePath":"C:\\Users\\hetc2_000\\Documents\\CSE219\\HW\\HW4\\theEPortfolioGenerator\\images\banner"
+
+        },
+        "contents":[
+        {
+            "id":"p1",
+            "style":"t_p",
+            "components":"Unfortunately, I just demoted from Gold V to Silver IV! WTF!"
+
+        },
+        {
+            "id":"h1",
+            "style":"t_link",
+            "components":{
+                    "content":"Click",
+                    "hyperlink":"na.op.gg/summoner/matches/userName=stubbornhtc"
+            }
+        },
+        {
+            "id":"p2",
+            "style":"t_p",
+            "components":" me to check!"
+        }],
+        "footer":{
+            "content":"lol's home page",
+            "hyperlink":"op.gg"
+        }
+    }
+]}
